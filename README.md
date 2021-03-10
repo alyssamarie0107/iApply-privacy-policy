@@ -1,1 +1,0 @@
-# iApply-privacy-policy
