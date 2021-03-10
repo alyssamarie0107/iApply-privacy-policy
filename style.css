@@ -1,0 +1,33 @@
+*::-webkit-scrollbar {
+  width: 0px; 
+  background: transparent;
+}
+
+body {
+  color: white;
+  font-family: Montserrat;
+  background-color: #2F3136;
+}
+
+h1, h2, h3 {
+  color: #7289DA;
+  font-family: Montserrat;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+#navbar {
+  margin-bottom: 15px;
+}
+
+#navbar > span {
+  color: #7289DA;
+  font-family: Montserrat;
+}
+
+#policy {
+  width: 85vw;
+}
