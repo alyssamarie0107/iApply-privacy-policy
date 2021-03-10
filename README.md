@@ -1,1 +1,1 @@
-# iApply-web
+# iApply-privacy-policy
